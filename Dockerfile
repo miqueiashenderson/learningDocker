@@ -57,4 +57,4 @@ USER python
 ENTRYPOINT []
 WORKDIR /app
 
-CMD ["uvicorn", "--host", "0", "--port", "8000", "src.dockeryt.main:app"]
+CMD ["uvicorn", "--host", "0", "--port", "8000", "src.learningDocker.main:app"]

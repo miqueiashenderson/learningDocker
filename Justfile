@@ -6,8 +6,8 @@ set dotenv-load := true
 set dotenv-path := "env/.env"
 
 # Docker
-dc_container_name := "learningDocker"
-dc_image_name := "learningDocker"
+dc_container_name := "learningdocker"
+dc_image_name := "learningdocker"
 dc_dockerfile_path := "Dockerfile"
 dc_compose_path := "compose.yaml"
 

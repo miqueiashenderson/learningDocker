@@ -1,5 +1,5 @@
 services:
-  dockeryt:
+  learningdocker:
     pull_policy: never
     image: learningdocker
     container_name: learningdocker
